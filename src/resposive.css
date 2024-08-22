@@ -27,19 +27,25 @@
     padding: 0.5rem;
   }
   .About-main {
-    grid-template-columns: 0.5fr 1fr;
-
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
     padding: 0rem;
   }
-  .first-pro-div {
-    display: none;
+  .product-img {
+    flex-direction: row;
   }
   .product-sec {
-    width: 11rem;
+    width: 18rem;
+    height: 13rem;
   }
   .product-third {
-    width: 11rem;
+    width: 14rem;
     height: 13rem;
+  }
+  .first-pro-div img {
+    display: none;
   }
   .cards-main {
     grid-template-columns: repeat(2, 1fr);

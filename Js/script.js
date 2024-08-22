@@ -11,7 +11,6 @@ updateYear();
 
 // NAVIGATION BTN Work
 function navigationWork() {
-  // by this line code you will be able to add,delete and etc a class to an element
   headeEL.classList.toggle("nav-open");
 }
 
