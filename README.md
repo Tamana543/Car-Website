@@ -8,7 +8,7 @@
 
 ##### Responsive Website
 
-A cool website all about my favorite cars :) just for making myself glad ^__^
+A cool website all about my favorite cars ^__^
 
 [Live](https://tamana543.github.io/Car-Website)
 
