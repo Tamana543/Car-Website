@@ -71,6 +71,32 @@ This project was created to:
 
 ---
 
+##  Learning Outcomes
+
+- Semantic HTML structure
+- Responsive design with CSS
+- Basic JavaScript usage
+- Organized project structure
+
+---
+
+##  License
+
+This project is for **educational and portfolio use**.
+
+---
+
+## 👩‍💻 Author
+
+Tamana  
+Front‑End Developer
+
 [Live](https://tamana543.github.io/Car-Website)
+
+---
+
+If you find this project useful, feel free to ⭐ the repository.
+
+
 
 
