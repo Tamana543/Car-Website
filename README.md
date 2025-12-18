@@ -23,9 +23,54 @@ It is a static website built to demonstrate **HTML, CSS, and basic JavaScript sk
 
 ---
 
+##  Project Structure
 
+```
+Car-Website-main/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── img/                 # Images and assets
+└── README.md
+```
+
+---
+
+##  Getting Started
+
+### Run Locally
+
+No setup required.
+
+```bash
+git clone https://github.com/your-username/car-website.git
+cd car-website
+open index.html
+```
+
+For a better experience, use **VS Code Live Server**.
+
+---
+
+##  Project Purpose
+
+This project was created to:
+
+- Practice **front‑end web development basics**
+- Improve **responsive layout skills**
+- Build a visually appealing static website
+- Strengthen personal portfolio projects
+
+---
+##  Preview
+
+![webste overview](<Website Overview.png>)
+
+---
 
 [Live](https://tamana543.github.io/Car-Website)
 
 
-![webste overview](<Website Overview.png>)
