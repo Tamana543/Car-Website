@@ -86,10 +86,12 @@ This project is for **educational and portfolio use**.
 
 ---
 
-## 👩‍💻 Author
+## 👤 Author
 
-Tamana  
-Front‑End Developer
+**Tamana\<ReginaJS/\>** 
+
+Front-End Developer | JavaScript Learner
+
 
 [Live](https://tamana543.github.io/Car-Website)
 
